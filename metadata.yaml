@@ -22,6 +22,8 @@ description: Byron's exuberant masterpiece tells of the adventures of Don Juan, 
   Don Juan blends high drama with earthy humor, outrageous satire of his contemporaries,
   and sharp mockery of Western societies, with England coming under particular attack.
   --Penguin Books.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21700#Don-Juan
 gutenberg_issued: '2007-06-06'
 gutenberg_type: Text
 identifiers:
